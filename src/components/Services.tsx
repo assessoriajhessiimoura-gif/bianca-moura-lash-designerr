@@ -13,19 +13,19 @@ const Services = () => {
       caption: 'Volume Brasileiro'
     },
       {
-      src: '/images/WhatsApp Image 2025-09-13 at 18.55.52.jpeg',
+      src: '/images/WhatsApp Image 2025-09-13 at 18.55.52 (2).jpeg',
       alt: 'Resultado de extensão de cílios - Efeito natural',
       caption: 'Efeito Fox'
     },
     {
-      src: '/images/WhatsApp Image 2025-09-13 at 18.55.51 (2).jpeg',
+      src: 'WhatsApp Image 2025-09-13 at 18.55.52 (3).jpeg',
       alt: 'Resultado de extensão de cílios - Efeito natural',
-      caption: 'Fox'
+      caption: '(Volume Fox)'
     },
      {
-      src: '/images/WhatsApp Image 2025-09-13 at 18.55.52.jpeg',
-      alt: 'Resultado de extensão de cílios - Efeito natural',
-      caption: 'Volume (Brasileiro)'
+      src: '/ima/WhatsApp Image 2025-09-13 at 18.55.50 (1).jpeg',
+      alt: 'Resultado deges extensão de cílios - Efeito natural',
+      caption: '(Mega Volume)'
     },
     {
       src: '/images/WhatsApp Image 2025-09-13 at 18.55.54 (2).jpeg',
