@@ -43,7 +43,7 @@ const Courses = () => {
               </div>
               <div className="flex items-center">
                 <Award className="text-amber-600 w-6 h-6 mr-3" />
-                <span className="text-gray-700">Suporte Pos curso</span>
+                <span className="text-gray-700">Suporte Pós Curso</span>
               </div>
             </div>
 
@@ -52,7 +52,7 @@ const Courses = () => {
                 O que você vai aprender:
               </h3>
               <ul className="space-y-2 text-gray-600">
-                <li>• Técnicas fio a fio e fios tecnologicos</li>
+                <li>• Técnicas Fio a Fio e Fios tecnologicos</li>
                 <li>• alinhamento e Direcionamento</li>
                 <li>• Cuidados e manutenção</li>
                 <li>• Lista de materiais</li>
