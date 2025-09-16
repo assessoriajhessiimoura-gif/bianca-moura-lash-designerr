@@ -22,11 +22,6 @@ const Services = () => {
       alt: 'Resultado de extensão de cílios - Efeito natural',
       caption: 'Volume Express'
     },
-     {
-      src: '/images/Imagem do WhatsApp 2025-09-13 às 18.55.50.jpeg',
-      alt: 'Resultado de extensão de cílios - Efeito natural',
-      caption: 'Fox'
-    },
   ];
 
   const servicesList = [
