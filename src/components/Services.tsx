@@ -25,7 +25,7 @@ const Services = () => {
      {
       src: '/images/Imagem do WhatsApp 2025-09-13 às 18.55.50 (1).jpeg',
       alt: 'Resultado de extensão de cílios - Efeito natural',
-      caption: '(Mega Volume)'
+      caption: 'Mega V'
     },
   ];
 
