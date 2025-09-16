@@ -18,7 +18,7 @@ const Services = () => {
       caption: 'Efeito Fox'
     },
     {
-      src: '/images/WhatsApp Image 2025-09-13 at 18.55.52 (2).jpeg',
+      src: '/images/WhatsApp Image 2025-09-13 at 18.55.51 (2).jpeg',
       alt: 'Resultado de extensão de cílios - Efeito natural',
       caption: 'Fox'
     },
