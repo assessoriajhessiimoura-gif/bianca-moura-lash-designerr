@@ -16,7 +16,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-600 mb-8 font-light">
-              Realce sua beleza. Sinta-se confiante.
+             Realce sua beleza, sinta-se confiante. Agende agora e transforme o seu olhar.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
