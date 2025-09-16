@@ -7,6 +7,11 @@ const Services = () => {
       alt: 'Resultado de extensão de cílios - Volume perfeito',
       caption: 'Mega Volume'
     },
+     {
+      src: '/images/WhatsApp Image 2025-09-13 at 18.55.50.jpeg',
+      alt: 'Resultado de extensão de cílios - Volume perfeito',
+      caption: '(Volume Brasileiro)'
+    },
     {
       src: '/images/WhatsApp Image 2025-09-13 at 18.55.50.jpeg',
       alt: 'Resultado de extensão de cílios - Volume perfeito',
@@ -26,6 +31,11 @@ const Services = () => {
       src: '/images/WhatsApp Image 2025-09-13 at 18.55.54 (2).jpeg',
       alt: 'Resultado de extensão de cílios - Efeito natural',
       caption: 'Volume Express'
+    },
+     {
+      src: '/images/WhatsApp Image 2025-09-13 at 18.55.50 (1).jpeg',
+      alt: 'Resultado de extensão de cílios - Volume perfeito',
+      caption: '(Mega Volume)'
     },
   ];
 
