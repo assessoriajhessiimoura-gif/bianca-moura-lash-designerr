@@ -8,7 +8,7 @@ const Services = () => {
       caption: 'Mega Volume'
     },
     {
-      src: '/images/WhatsApp image 2025-09-13 às 18.55.50.jpeg',
+      src: '/images/WhatsApp Image 2025-09-13 às 18.55.50.jpeg',
       alt: 'Resultado de extensão de cílios - Volume perfeito',
       caption: 'fox'
     },
