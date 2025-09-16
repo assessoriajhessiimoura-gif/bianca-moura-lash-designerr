@@ -41,6 +41,9 @@ const Footer = () => {
                 <li>Volume Brasileiro</li>
                 <li>Volume Europeu</li>
                 <li>Efeito Fox</li>
+                <li>Voluma Express</li>
+                <li>Mega Volume</li>
+                <li>Fio a Fio</li>
               </ul>
             </div>
             <div>
