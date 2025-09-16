@@ -35,7 +35,7 @@ const Courses = () => {
               </div>
               <div className="flex items-center">
                 <Users className="text-amber-600 w-6 h-6 mr-3" />
-                <span className="text-gray-700">Turmas Reduzidas</span>
+                <span className="text-gray-700">Curso Vip</span>
               </div>
               <div className="flex items-center">
                 <Clock className="text-amber-600 w-6 h-6 mr-3" />
@@ -43,7 +43,7 @@ const Courses = () => {
               </div>
               <div className="flex items-center">
                 <Award className="text-amber-600 w-6 h-6 mr-3" />
-                <span className="text-gray-700">Material Incluso</span>
+                <span className="text-gray-700">Suporte Pos curso</span>
               </div>
             </div>
 
@@ -52,10 +52,10 @@ const Courses = () => {
                 O que você vai aprender:
               </h3>
               <ul className="space-y-2 text-gray-600">
-                <li>• Técnicas de Volume Brasileiro e Europeu</li>
-                <li>• Mapeamento e design de olhos</li>
+                <li>• Técnicas fio a fio e fios tecnologicos</li>
+                <li>• alinhamento e Direcionamento</li>
                 <li>• Cuidados e manutenção</li>
-                <li>• Como montar seu próprio negócio</li>
+                <li>• Lista de materiais</li>
               </ul>
             </div>
 
