@@ -23,7 +23,7 @@ const Services = () => {
       caption: '(Volume Fox)'
     },
      {
-      src: '/ima/WhatsApp Image 2025-09-13 at 18.55.50 (1).jpeg',
+      src: '/ima/Imagem do WhatsApp 2025-09-13 às 18.55.50 (1).jpeg',
       alt: 'Resultado deges extensão de cílios - Efeito natural',
       caption: '(Mega Volume)'
     },
