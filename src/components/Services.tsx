@@ -15,7 +15,7 @@ const Services = () => {
     {
       src: '/images/WhatsApp Image 2025-09-13 at 18.55.50.jpeg',
       alt: 'Resultado de extensão de cílios - Volume perfeito',
-      caption: 'fox'
+      caption: 'Volume Europeu'
     },
     {
       src: '/images/WhatsApp Image 2025-09-13 at 18.55.52.jpeg',
